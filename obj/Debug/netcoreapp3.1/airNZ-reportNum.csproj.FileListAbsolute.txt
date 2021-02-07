@@ -1,0 +1,13 @@
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/bin/Debug/netcoreapp3.1/airNZ-reportNum
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/bin/Debug/netcoreapp3.1/airNZ-reportNum.deps.json
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/bin/Debug/netcoreapp3.1/airNZ-reportNum.runtimeconfig.json
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/bin/Debug/netcoreapp3.1/airNZ-reportNum.runtimeconfig.dev.json
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/bin/Debug/netcoreapp3.1/airNZ-reportNum.dll
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/bin/Debug/netcoreapp3.1/airNZ-reportNum.pdb
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.csprojAssemblyReference.cache
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.AssemblyInfoInputs.cache
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.AssemblyInfo.cs
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.csproj.CoreCompileInputs.cache
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.dll
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.pdb
+/media/Windows-SSD/Media/Projects/airNZ-reportNum/obj/Debug/netcoreapp3.1/airNZ-reportNum.genruntimeconfig.cache
