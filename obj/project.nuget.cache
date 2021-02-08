@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GmHMnDk3Tmd0OQalyjTnlEJSVzQRHkDcnCRp8bFEEi08w0XVuVW+pRNDQCGXG8KJ91Uu9AUunVaOjf0m1iofcg==",
+  "dgSpecHash": "HpnXV93CGk+Yz3YQd4Aan0MdwDtuplLum3kRgPChQGJNoR7oT0SRb1cxy/KKSgvhi8APeWvTv4XwJKv9dydBEA==",
   "success": true,
   "projectFilePath": "/media/Windows-SSD/Media/Projects/airNZ-reportNum/airNZ-reportNum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ronan/.nuget/packages/microsoft.netcore.app.runtime.win-x64/3.1.9/microsoft.netcore.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "/home/ronan/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/3.1.9/microsoft.aspnetcore.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "/home/ronan/.nuget/packages/microsoft.netcore.app.host.win-x64/3.1.9/microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
   "logs": []
 }
